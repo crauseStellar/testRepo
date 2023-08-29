@@ -8,5 +8,9 @@ public class Main {
         System.out.println("say Hello world");
         //comment for fetch
         //comment for pull
+
+        for (int i = 0; i < 10; i++) {
+            System.out.println(i);
+        }
     }
 }
